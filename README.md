@@ -49,6 +49,10 @@ Start the application:
 npm start
 Usage
 
+Running the Agent:
+just type in usdk chat /path to the agent directory.
+And you are ready to go and talk to the Agent and plan your workouts accordingly!
+
 Create Your Profile: Share your fitness goals, level, and any injuries with Fitman.
 Generate a Plan: Request a workout plan (daily/weekly/monthly) tailored to your preferences.
 Track Progress: Log completed workouts to adjust the plan dynamically.
@@ -62,8 +66,8 @@ Future Enhancements
 Integration with wearable fitness devices.
 Advanced nutrition tracking and meal suggestions.
 Community leaderboard for friendly competition.
-Collaborators
 
-Add the following as collaborators on your GitHub repository:
+
+The following collaborators were added to the github repository:
 @avaer
 @saadbazaz
